@@ -32,28 +32,20 @@ Users can search meals, explore categories, view detailed recipes, manage favori
 
 # ⚙️ Installation Guide
 - 1️⃣ Clone Repository
+  
 ```git clone https://github.com/your-username/meal-explorer.git```
 `cd meal-explorer`
+
 - 2️⃣ Install Dependencies
+  
 ``npm install``
+
 - 3️⃣ Run Development Server
+  
 ``npm run dev``
 
 - App runs at:
 `http://localhost:5173`
-
-# How It Works(Functionalaties)
-## Search System
-- Fetches meals dynamically from API
-- Updates UI instantly
-## ❤️ Favorites System
-- Managed via Context API
-- Toggle favorite status
-- Stored locally
-## 🛒 Cart System
-- Add meals to cart
-- Remove items
-- Dynamic cart state
 
 # React + Vite
 
@@ -71,6 +63,20 @@ The React Compiler is currently not compatible with SWC. See [this issue](https:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# How It Works(Functionalaties)
+## Search System
+- Fetches meals dynamically from API
+- Updates UI instantly
+## ❤️ Favorites System
+- Managed via Context API
+- Toggle favorite status
+- Stored locally
+## 🛒 Cart System
+- Add meals to cart
+- Remove items
+- Dynamic cart state
 
 ## 🧑‍💻 Author
 Velan P
