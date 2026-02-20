@@ -33,19 +33,21 @@ Users can search meals, explore categories, view detailed recipes, manage favori
 # ⚙️ Installation Guide
 - 1️⃣ Clone Repository
   
-```git clone https://github.com/your-username/meal-explorer.git```
-`cd meal-explorer`
+  ```git clone https://github.com/your-username/meal-explorer.git```
+
+  `cd meal-explorer`
 
 - 2️⃣ Install Dependencies
   
-``npm install``
+  ``npm install``
 
 - 3️⃣ Run Development Server
   
-``npm run dev``
+  ``npm run dev``
 
 - App runs at:
-`http://localhost:5173`
+
+  `http://localhost:5173`
 
 # React + Vite
 
