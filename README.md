@@ -3,8 +3,9 @@ Discover, Search & Explore Delicious Meals Around the World 🌎
 A modern, responsive Meal Discovery Web Application built using React + Tailwind CSS + API integration.
 Users can search meals, explore categories, view detailed recipes, manage favorites, and add meals to cart.
 
-## Live Demo
+## Live Demo( update soon)
 🔗 Live Site: https://your-live-link.vercel.app
+
 🔗 GitHub Repo: https://github.com/your-username/meal-explorer
 
 ## Features
